@@ -1,4 +1,3 @@
-// import React from 'react';
 import { Link } from 'react-router-dom';
 import { StyledNavbar, StyledNavbarBrand, StyledNavItems, StyledLink } from '../styled/Navbar';
 import { Accent } from '../styled/Random';
