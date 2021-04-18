@@ -2,6 +2,6 @@ import styled from 'styled-components';
 
 export const Main = styled.div`
     margin: 0;
-    background-color: rgb(237, 202, 202);
+    background-color: #F9F9F9;
     min-height: 100vh;
 `;
